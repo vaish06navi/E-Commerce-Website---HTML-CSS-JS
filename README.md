@@ -1,4 +1,4 @@
-# **E-Commerce Website**
+# **E-Commerce Website - HTML, CSS, and JavaScript**
 
 This is a responsive Fashion e-commerce website built using **HTML, CSS, and JavaScript**. The website provides a user-friendly interface for customers to buy products online.It is a multipage & responsive e-commerce website completely 
 
